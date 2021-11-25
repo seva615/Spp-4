@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "fWF/NJJaa3w5MkNB5TFhuhxeHO9kd/+G32Im2cRzbtzxM0GYxxnymR0ZprQZlr3njPcl7ax+jau/u5m0sgs4dw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yug77_bd0zewu\\Documents\\GitHub\\Spp-4\\ConsoleApp\\ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yug77_bd0zewu\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.2\\microsoft.codeanalysis.analyzers.3.3.2.nupkg.sha512",
+    "C:\\Users\\yug77_bd0zewu\\.nuget\\packages\\microsoft.codeanalysis.common\\3.11.0\\microsoft.codeanalysis.common.3.11.0.nupkg.sha512",
+    "C:\\Users\\yug77_bd0zewu\\.nuget\\packages\\microsoft.codeanalysis.csharp\\3.11.0\\microsoft.codeanalysis.csharp.3.11.0.nupkg.sha512",
+    "C:\\Users\\yug77_bd0zewu\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
+    "C:\\Users\\yug77_bd0zewu\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\yug77_bd0zewu\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512",
+    "C:\\Users\\yug77_bd0zewu\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
+    "C:\\Users\\yug77_bd0zewu\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\yug77_bd0zewu\\.nuget\\packages\\system.reflection.metadata\\5.0.0\\system.reflection.metadata.5.0.0.nupkg.sha512",
+    "C:\\Users\\yug77_bd0zewu\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\yug77_bd0zewu\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512",
+    "C:\\Users\\yug77_bd0zewu\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
